@@ -1,0 +1,22 @@
+.contato{
+    background:rgb(0, 0, 0, .2);
+    width: 75%;
+    margin:10px auto;
+    height: 60vh;
+   display:grid;
+   grid-template-columns: 1fr 1fr;  
+   gap: 2rem
+}
+.contato img{
+    margin:2px auto;
+    width:70%;
+}
+.dados{
+    list-style: none;
+    padding:0px
+}
+.adress{
+    font-size:1.5rem;
+    font-family:monospace;
+    margin:50px auto;
+}
